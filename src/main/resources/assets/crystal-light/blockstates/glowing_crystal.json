@@ -1,1 +1,5 @@
-{ "variants": { "": { "model": "crystal-light:block/glowing_crystal" } } }
+{
+  "variants": {
+    "": { "model": "crystal-light:block/glowing_crystal" }
+  }
+}

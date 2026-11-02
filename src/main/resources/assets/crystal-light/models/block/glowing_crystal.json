@@ -1,1 +1,7 @@
-{ "parent": "block/cube_all", "textures": { "all": "crystal-light:block/glowing_crystal" } }
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "crystal-light:block/glowing_crystal"
+  },
+  "render_type": "minecraft:cutout"
+}

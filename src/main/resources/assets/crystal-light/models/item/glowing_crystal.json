@@ -1,1 +1,6 @@
-{ "parent": "crystal-light:block/glowing_crystal" }
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "crystal-light:block/glowing_crystal"
+  }
+}
